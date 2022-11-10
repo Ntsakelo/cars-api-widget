@@ -1,0 +1,27 @@
+.container {
+  width: 100%;
+}
+#colors {
+  height: 100%;
+}
+#makes {
+  height: 100%;
+}
+.container div {
+  width: 100%;
+  height: 400px;
+  margin-bottom: 10px;
+}
+.allCars {
+  overflow: auto;
+}
+#searchWidget {
+  height: 200px;
+}
+.form-select {
+  display: block;
+  margin-bottom: 10px;
+}
+.filterData {
+  overflow: auto;
+}
